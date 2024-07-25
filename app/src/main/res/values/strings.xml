@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MoneyApp</string>
+    <string name="submit">submit</string>
+    <string name="empty">kosong</string>
+    <string name="added">Berhasil menambahkan</string>
+    <string name="cancel">Batal</string>
+    <string name="message_cancel">Apakah anda ingin membatalkan perubahan pada form?</string>
+    <string name="message_delete">Apakah anda yakin ingin menghapus item ini?</string>
+    <string name="delete">Hapus</string>
+    <string name="yes">Ya</string>
+    <string name="deleted">Item berhasil dihapus</string>
+    <string name="no">Tidak</string>
+    <string name="changed">Item berhasil di edit</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
